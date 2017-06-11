@@ -1,0 +1,23 @@
+{
+  "name": "service-worker",
+  "version": "1.0.0",
+  "description": "Simple Service Worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgoangle/service-worker.git"
+  },
+  "keywords": [
+    "Service",
+    "Worker"
+  ],
+  "author": "Teerapong Singthong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgoangle/service-worker/issues"
+  },
+  "homepage": "https://github.com/iamgoangle/service-worker#readme"
+}
